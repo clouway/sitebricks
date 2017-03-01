@@ -6,6 +6,10 @@ Sitebricks is a simple set of libraries for web applications. Sitebricks focuses
  [Guice](http://code.google.com/p/google-guice), it also balances idiomatic
  Java with an emphasis on concise code.
 
+### clouWay Notes ###
+
+This branch is created due lack of activity in the original repository. Few fixes are addresssed here as some of our projects require them. 
+
 ### Early error detection ###
 
 This following misspelling results in a template compile error:
